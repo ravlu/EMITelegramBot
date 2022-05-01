@@ -25,7 +25,7 @@ def help(update: Update, context: CallbackContext):
     # text = ' '.join(context.args)
     context.bot.send_message(chat_id=update.effective_chat.id, text="Enter /emi Lakhs Inerest Years /emi 17 7 15!")
 def main():
-    updater = Updater('5330190609:AAE-1egpspRpZqB2lo3_8DDVTmfzsiRUTdM')
+    updater = Updater(TOKEN')
     dp = updater.dispatcher
     dp.add_handler(CommandHandler('emi',emi))
     help_handler = CommandHandler('help', help)
