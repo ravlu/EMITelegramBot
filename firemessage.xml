@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
     <Say voice="alice">Emergency near Vijetha supermarket, Ameenpur. For more information contact Cyberabad command control</Say>
-	<Play>https://github.com/ravlu/EMITelegramBot/blob/main/Text-to-Speech_29-Apr-2023_17-35.mp3?raw=true</Play>
+	<Play>https://github.com/ravlu/EMITelegramBot/blob/main/Text-to-Speech_29-Apr-2023_17-35.mp3</Play>
 </Response>
